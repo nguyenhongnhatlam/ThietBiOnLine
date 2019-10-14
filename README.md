@@ -12,6 +12,8 @@ _Nhấn vào hàng mới sã hiện các sản phẩm mới
 <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/72532665_643584089502194_3032923518648975360_n.jpg?_nc_cat=110&_nc_oc=AQkdHBIxKA8VRwO0LSwm480w6bp1gVE4h840yh4tYl8nz28ZZ9pkof5-wsVZcQ72s1M&_nc_ht=scontent.fdad2-1.fna&oh=ccee4e95ded9f8950f82248d118f7f39&oe=5E31F600">
 _Nhấn vào giỏ hàng để đặt đơn hàng
 <img src="https://raw.githubusercontent.com/nguyenhongnhatlam/BooksShopOnline/master/images/themvaogiohang.PNG">
+_Nhấn Vào Hình Ảnh sẽ hiện ra thông tin từng thiết bị
+<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/72253807_520574622145659_4798547950848442368_n.png?_nc_cat=109&_nc_oc=AQnlq7aE1V2ibKY1j_mp772hkrv2fnV_y-Dx60pkT6zEkVOshC2nvy1EC4gljlsdMSU&_nc_ht=scontent.fdad2-1.fna&oh=7b51e7bd64508dce4af26bc41f2d0357&oe=5E63FD81">
 Sua lai giao dien:
 <img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/73013372_252688335647542_8838056192719716352_n.png?_nc_cat=100&_nc_oc=AQl62zhezSm3zDxst2ViQI2lSrC42V0mdOe82XmpTk0EVHKx4hAnJ5JhFR8BSVlc0LQ&_nc_ht=scontent.fdad1-1.fna&oh=4679ab08ab03b2bde1eae29ed489b81a&oe=5E61CD0C">
 
