@@ -13,6 +13,6 @@ _Nhấn vào hàng mới sã hiện các sản phẩm mới
 _Nhấn vào giỏ hàng để đặt đơn hàng
 <img src="https://raw.githubusercontent.com/nguyenhongnhatlam/BooksShopOnline/master/images/themvaogiohang.PNG">
 Sua lai giao dien:
-<img src="hinhanh/Capture.png">
+https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/73013372_252688335647542_8838056192719716352_n.png?_nc_cat=100&_nc_oc=AQl62zhezSm3zDxst2ViQI2lSrC42V0mdOe82XmpTk0EVHKx4hAnJ5JhFR8BSVlc0LQ&_nc_ht=scontent.fdad1-1.fna&oh=4679ab08ab03b2bde1eae29ed489b81a&oe=5E61CD0C
 
 Cảm Ơn các bạn đã xem trang wed của mình!!
