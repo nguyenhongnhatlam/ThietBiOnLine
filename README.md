@@ -15,7 +15,13 @@ _Nhấn Vào Hình Ảnh sẽ hiện ra thông tin từng thiết bị
 _Nhấn vào giỏ hàng để đặt đơn hàng
 <img src="https://raw.githubusercontent.com/nguyenhongnhatlam/BooksShopOnline/master/images/themvaogiohang.PNG">
 
-Sua lai giao dien:
+Sửa Lại Giao Diện:
 <img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/73013372_252688335647542_8838056192719716352_n.png?_nc_cat=100&_nc_oc=AQl62zhezSm3zDxst2ViQI2lSrC42V0mdOe82XmpTk0EVHKx4hAnJ5JhFR8BSVlc0LQ&_nc_ht=scontent.fdad1-1.fna&oh=4679ab08ab03b2bde1eae29ed489b81a&oe=5E61CD0C">
+LIÊN KẾT:
+<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/73286527_517177595513210_8600222516142669824_n.png?_nc_cat=107&_nc_oc=AQle0KCK8yy8puf5QY7dHQWoHeGQqcjEovWDOPbarw1wL6kyzRzErBjvXhvsnVOPOzA&_nc_ht=scontent.fdad2-1.fna&oh=6fefa6544095ba1d39f96eb225652cfe&oe=5E245C5F">
+Bảng Thiết Bị:
+<img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/72194633_2133749930253213_4136261661638000640_n.png?_nc_cat=103&_nc_oc=AQnEw8QftHVwmZsjBktw8Ux9NY_2tiojfh-0MTOoDrq4elEsjTVLeFEGTHf5VnhQED0&_nc_ht=scontent.fdad1-1.fna&oh=1714eac17ddac4d1cc81484d44563d5d&oe=5E607986">
+Bảng Hàng:
+<img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/73089275_927069160997451_1203629198468448256_n.png?_nc_cat=102&_nc_oc=AQnoUO_QCKEYiv1ds23zcGYlkUqz7rbSkzm__uWLyWjBgnLfXk83NwGY5Ag9uvVtHSo&_nc_ht=scontent.fdad1-1.fna&oh=24bffcba0520c8af42eb8f5bd924ddb2&oe=5E188BCA">
 
 Cảm Ơn các bạn đã xem trang wed của mình!!
