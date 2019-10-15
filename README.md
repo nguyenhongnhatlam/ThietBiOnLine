@@ -25,12 +25,15 @@ _Nhấn Vào Hình Ảnh sẽ hiện ra thông tin từng thiết bị
 <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/72253807_520574622145659_4798547950848442368_n.png?_nc_cat=109&_nc_oc=AQnlq7aE1V2ibKY1j_mp772hkrv2fnV_y-Dx60pkT6zEkVOshC2nvy1EC4gljlsdMSU&_nc_ht=scontent.fdad2-1.fna&oh=7b51e7bd64508dce4af26bc41f2d0357&oe=5E63FD81">
 
 _LIÊN KẾT:
+
 <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/73286527_517177595513210_8600222516142669824_n.png?_nc_cat=107&_nc_oc=AQle0KCK8yy8puf5QY7dHQWoHeGQqcjEovWDOPbarw1wL6kyzRzErBjvXhvsnVOPOzA&_nc_ht=scontent.fdad2-1.fna&oh=6fefa6544095ba1d39f96eb225652cfe&oe=5E245C5F">
 
 _Bảng Thiết Bị:
+
 <img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/72194633_2133749930253213_4136261661638000640_n.png?_nc_cat=103&_nc_oc=AQnEw8QftHVwmZsjBktw8Ux9NY_2tiojfh-0MTOoDrq4elEsjTVLeFEGTHf5VnhQED0&_nc_ht=scontent.fdad1-1.fna&oh=1714eac17ddac4d1cc81484d44563d5d&oe=5E607986">
 
 _Bảng Hàng:
+
 <img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/73089275_927069160997451_1203629198468448256_n.png?_nc_cat=102&_nc_oc=AQnoUO_QCKEYiv1ds23zcGYlkUqz7rbSkzm__uWLyWjBgnLfXk83NwGY5Ag9uvVtHSo&_nc_ht=scontent.fdad1-1.fna&oh=24bffcba0520c8af42eb8f5bd924ddb2&oe=5E188BCA">
 
 Cảm Ơn các bạn đã xem trang wed của mình!!
